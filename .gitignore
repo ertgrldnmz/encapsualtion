@@ -1,0 +1,14 @@
+## my don't want documents
+*.dll
+*.pdb
+*.exe
+*.json
+*.props
+*.cache
+*.targets
+*.g.cs
+*.txt
+*.csproj
+*.cs
+!*program.cs
+*.editorconfig
